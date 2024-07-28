@@ -5,10 +5,14 @@ body {
 #container {
     display: flex;
     flex-wrap: wrap;
-    width: 2474px; /* Adjust as needed deppending on your screen size */
-    height: 1300px; /* Adjust as needed deppending on your screen size */
+    width: 960px; /* Adjust as needed deppending on your screen size */
+    height: 960px; /* Adjust as needed deppending on your screen size */
     border: 1px solid black;
 
+}
+
+.button-container {
+    margin-bottom: 10px;
 }
 
 .grid-item {
